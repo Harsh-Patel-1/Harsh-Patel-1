@@ -1,5 +1,4 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
-<h1 align="center">Hi 🙋🏻‍♂️👋🏻, I'm Harsh Daslaniya</h1>
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
